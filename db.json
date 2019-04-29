@@ -1,7 +1,11 @@
 {
-  "data": {
-    "status" : 201,
-    "url": "www.bellwethr.com",
-    "message": "successful"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
