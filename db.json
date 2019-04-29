@@ -1,5 +1,5 @@
-'data': {
-  status : 201,
-  url: 'www.bellwethr.com',
-  message: 'successful'
+"data": {
+  "status" : 201,
+  "url": "www.bellwethr.com",
+  "message": "successful"
 }
