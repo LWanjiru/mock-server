@@ -1,5 +1,7 @@
 {
   "data": {
-    "name": "typicode"
+    "status": 201,
+    "successMsg" : "successful",
+    "url" : "https://www.bellwethr.com/"
   }
 }
